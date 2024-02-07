@@ -1,0 +1,11 @@
+.navbar1 {
+    height: 100px !important;
+    transition: height 0.3s ease !important;
+  }
+  
+  .navbar-shrink {
+    height: 65px !important;
+    transition: height 0.3s ease !important;
+  }
+
+  
